@@ -1,4 +1,4 @@
-# newProgramFC
+# ProgramFC with emotion_narrative_analysis
 - ## 项目说明
  本项目是基于ACL 2023 Paper ["Fact-Checking Complex Claims with Program-Guided Reasoning"](https://arxiv.org/abs/2305.12744)的代码复现与改进，主要目的是通过生成推理程序来验证复杂声明的真伪和对潜在传播源的判定。
 - ## 项目结构总览
